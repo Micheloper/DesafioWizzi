@@ -1,0 +1,8 @@
+/* +COLORS,FONTS */
+:root {
+  --color-bg-principal: #c6c4f9;
+  --color-nav-a: aliceblue;
+}
+html {
+  background-color: var(--color-bg-principal);
+}
